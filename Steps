@@ -1,0 +1,15 @@
+
+STEP-1 :
+Online pull information 
+ $ online data from websites
+ $Extact my pull history from my login deatils 
+  >check if websites are there
+  >Or i need to create a solution
+  
+
+STEP-2
+First I need the model constraints and understand how its working
+        > might need to create my own gacha system
+
+STEP-3 
+  Predictinf based on ml models present test train 
